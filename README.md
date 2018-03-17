@@ -16,5 +16,5 @@ Dimensions | 144.8 x 72.1 x 8.6 mm
 Display | 720 x 1280 (qHD), 5.2" (142.1mm)
 Rear Camera  | 13.0 MP, LED flash, S.LSI. S5K3L2XX
 Front Camera | 5.0 MP, S.LSI. S5K5E3YX
-
-#cloned from https://github.com/Galaxy-MSM8916/android_device_samsung_j5xnlte#
+ 
+#cloned from https://github.com/Galaxy-MSM8916/android_device_samsung_j5xnlte #
